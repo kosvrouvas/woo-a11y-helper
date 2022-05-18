@@ -10,7 +10,7 @@
  * @wordpress-plugin
  * Plugin Name:   Woo a11y Helper
  * Plugin URI:    
- * Description:   Fix somne a11y issues showing up in Wave a11y Checker by overriding the official Woo templates from a plugin instead. Useful for ipdating many installations at once and want one place to update the template after a WooCommerce update.
+ * Description:   Fix some a11y issues showing up in Wave a11y Checker by overriding the official Woo templates from a plugin instead. Useful for ipdating many installations at once and want one place to update the template after a WooCommerce update.
  * Version:       1.0.0
  * Author:        Kostas Vrouvas, Analogue
  * Author URI:    https://kosvrouvas.dev
